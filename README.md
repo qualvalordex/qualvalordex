@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 # Hey there, I'm Paulo! ✌🏻
 
 <p align='center'>
