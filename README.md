@@ -1,8 +1,8 @@
 # Hey there, I'm Paulo! ✌🏻
 
-<center>
+<p align='center'>
 <img src='https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif' width=300 />
-</center>
+</p>
 
 ### My current role is...
 
@@ -24,7 +24,7 @@ developer of virtual assistants at Smarkio
 ### I also have knowledgement about...
 
 | <img src='https://i.imgur.com/RWBhtVe.png' width=37 /> | <img src='https://i.imgur.com/OWW0QRv.png' width=50 /> | <img src='https://i.imgur.com/OAIyCVn.png' width=50 /> | <img src='https://i.imgur.com/2qj05gh.png' width=60 /> | <img src='https://i.imgur.com/huXM9x1.png' width=45 /> | <img src='https://i.imgur.com/i9vcBJA.png' width=45 />
-|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|
 | Python | Docker | Git | Jest | MySQL | Selenium
 
 ### and now I'm studying...
