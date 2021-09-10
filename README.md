@@ -6,7 +6,7 @@
 
 ### My current role is...
 
-developer of virtual assistants at Smarkio
+Tech Lead at D1 | Smarkio.
 
 ### and there my working stack is...
 
@@ -28,9 +28,9 @@ developer of virtual assistants at Smarkio
 | Python | Docker | Git | Jest | MySQL | Selenium
 
 ### and now I'm studying...
-- Best practices with Git&Github using Conventional Commits and Gitflow
 - Serverless API architecture using AWS resources
-- Functional programming
+- Go Lang
+- Microsservices
 
 ### Let's chat? You can find me at...
 
