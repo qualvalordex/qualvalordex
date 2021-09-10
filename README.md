@@ -34,5 +34,5 @@ Tech Lead at D1 | Smarkio.
 
 ### Let's chat? You can find me at...
 
-<a href='https://www.twitter.com/qualvalordex'><img src='https://i.imgur.com/fCe3qUp.png' width=65 /></a> | <a href='https://www.twitter.com/qualvalordex'><img src='https://i.imgur.com/8Os3Q0e.png' width=70 /></a>
+<a href='https://www.twitter.com/qualvalordex'><img src='https://i.imgur.com/fCe3qUp.png' width=65 /></a> | <a href='https://www.linkedin.com/in/rodriguespaulo/'><img src='https://i.imgur.com/8Os3Q0e.png' width=70 /></a>
 |--|--|
