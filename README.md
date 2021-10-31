@@ -12,13 +12,13 @@ Tech Lead at D1 | Smarkio.
 
 <div style="display:flex">
     <a> 
-        <img src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" alt="REACT" height="75" width="75" />
+        <img src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" alt="Javascript" height="75" width="75" />
     </a>
     <a> 
-        <img src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/node.png" alt="REACT" height="75" width="75" />
+        <img src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/node.png" alt="NodeJS" height="75" width="75" />
     </a>
     <a> 
-        <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/typescript.png" alt="REACT" height="75" width="75" />
+        <img src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/typescript.png" alt="Typescript" height="75" width="75" />
     </a>
 </div>
 
