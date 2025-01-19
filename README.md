@@ -1,57 +1,30 @@
-# Hey there, I'm Paulo! ✌🏻
+<h1 align="center">Hi 👋, I'm Paulinho</h1>
+<h3 align="center">A passionate enterpreneur and developer from Brazil</h3>
 
-<p align='center'>
-<img src='https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif' width=300 />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qualvalordex&label=Profile%20views&color=0e75b6&style=flat" alt="qualvalordex" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qualvalordex" alt="qualvalordex" /></a> </p>
+
+- 🔭 I’m currently working on **falecomigo.ai**
+
+- 🌱 I’m currently learning **Langchain and CrewAI**
+
+- 👯 I’m looking to collaborate on [Evolution API](https://github.com/EvolutionAPI/evolution-api)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/paulinho-io/](https://www.linkedin.com/in/paulinho-io/)
+
+- 💬 Ask me about **AI, Math & Statistics**
+
+- 📫 How to reach me **paulinho@falecomigo.ai**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/qualvalordex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qualvalordex" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paulinho-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulinho-io" height="30" width="40" /></a>
+<a href="https://instagram.com/paulinho.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paulinho.io" height="30" width="40" /></a>
 </p>
 
-### My current role is...
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-Tech Lead at D1 | Smarkio.
-
-### and there my working stack is...
-
-<div style="display:flex">
-    <a> 
-        <img src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" alt="Javascript" height="75" width="75" />
-    </a>
-    <a> 
-        <img src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/node.png" alt="NodeJS" height="75" width="75" />
-    </a>
-    <a> 
-        <img src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/typescript.png" alt="Typescript" height="75" width="75" />
-    </a>
-</div>
-
-
-### but I also use some complementary technologies like...
-
-![AmazonAWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Serverless](https://img.shields.io/badge/-Serverless-05122A?style=flat&logo=serverless)
-
-### I also have knowledgement about...
-
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-### and now I'm studying...
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-
-### Let's chat? You can find me at...
-
-<div style="display:flex; flex-direction: row; justify-content: center; align-items: center; width: 70%;">
-    <a style="margin-right: 5px" href="https://www.linkedin.com/in/rodriguespaulo">
-        <img src="https://img.shields.io/badge/rodriguespaulo-0077B5?style=flat&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.twitter.com/qualvalordex">
-        <img src="https://img.shields.io/badge/@qualvalordex-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-    </a>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qualvalordex&show_icons=true&locale=en" alt="qualvalordex" /></p>
