@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Paulo 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Senior+software+engineer+by+trade;Mathematician+by+degree;Biology+addict+by+choice;Occasional+photographer" alt="Typing SVG" />
 </p>
@@ -28,32 +26,22 @@
 
 <br />
 
-<table align="center">
-<tr>
-<td align="center" valign="top">
-
-**Stack**
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /><br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-
-</td>
-<td align="center" valign="top">
-
-**Learning**
-
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nestjs,nextjs&theme=dark" alt="Stack: JavaScript, TypeScript, NestJS, Next.js" />
+</p>
+<p align="center"><sub>and currently teaching myself</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Learning: Rust" />
+</p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qualvalordex&theme=tokyonight&hide_border=true" alt="qualvalordex's GitHub streak" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qualvalordex/qualvalordex/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qualvalordex/qualvalordex/output/github-contribution-grid-snake.svg" />
+    <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/qualvalordex/qualvalordex/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
@@ -64,7 +52,5 @@
 
 <h3 align="center">Find me elsewhere</h3>
 <p align="center">
-<a href="https://twitter.com/qualvalordex" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qualvalordex" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/paulinho-io" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulinho-io" height="30" width="40" /></a>
-<a href="https://instagram.com/paulinho.io" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paulinho.io" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/qvdx/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="u/qvdx" height="30" width="40" /></a>
 </p>
